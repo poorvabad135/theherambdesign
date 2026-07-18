@@ -7,4 +7,4 @@
 // While testing on your own computer with the backend running locally,
 // change this back to "http://localhost:4000".
 
-window.HERAMB_API_BASE = "https://theherambackend.onrender.com";
+window.HERAMB_API_BASE = "https://theherambdesign.onrender.com";
